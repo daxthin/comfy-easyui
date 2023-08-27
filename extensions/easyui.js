@@ -2,7 +2,7 @@ import { app } from "/scripts/app.js";
 import { ComfyApp } from "/scripts/app.js";
 import { api } from "/scripts/api.js";
 
-app.ui.menuContainer.remove();
+// app.ui.menuContainer.remove();
 
 // components
 import Navbar from "./Navbar.js";
