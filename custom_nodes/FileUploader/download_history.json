@@ -1,0 +1,835 @@
+{
+    "121587": [
+        {
+            "id": 132310,
+            "files": [
+                {
+                    "id": 96142,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/162367/model/pinkbodysuitshrugclo.6PM3.safetensors",
+                    "sizeKB": 36984.255859375,
+                    "name": "PinkBodysuitShrugClothing.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-03T03:05:45.854Z",
+                    "hashes": {
+                        "AutoV1": "625A99E0",
+                        "AutoV2": "C9A073F418",
+                        "SHA256": "C9A073F4184AD38472ADE6DBF5CFFACFE265E66351E3E85B3510A68FB5A3FF13",
+                        "CRC32": "4897E625",
+                        "BLAKE3": "AE570EBBA25243E4638A0E48C23C7D96F77F466B82C2EECFBF1C667A6CF49264"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/132310",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "shrug \\(clothing\\)",
+                        "pink bodysuit",
+                        "gloves"
+                    ]
+                }
+            ]
+        }
+    ],
+    "1274": [
+        {
+            "id": 1356,
+            "files": [
+                {
+                    "id": 72,
+                    "url": "https://5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/civitai-prod-settled/imported/dreamlike-diffusion-1.0.0hruyg4t.0ni.ckpt",
+                    "sizeKB": 2082867.857421875,
+                    "name": "dreamlikeDiffusion10_10.ckpt",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": "fp16",
+                        "size": "full",
+                        "format": "PickleTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "**Detected Pickle imports (3)**\n```\ntorch._utils._rebuild_tensor_v2\ntorch.HalfStorage\ncollections.OrderedDict\n```",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2022-12-11T22:43:56.702Z",
+                    "hashes": {
+                        "AutoV1": "14E1EF5D",
+                        "AutoV2": "0AECBCFA2C",
+                        "SHA256": "0AECBCFA2CBE01BB44F7C0E4F413022AB25B35057B85507D55BA15E2D5DB35DA",
+                        "CRC32": "292A882E",
+                        "BLAKE3": "B100F0CF084B500960B847995053E37C5BA27EB574C83DEDF761F61D8B9C36F7"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/1356",
+                    "primary": true,
+                    "model_type": "Checkpoint",
+                    "trained_words": [
+                        "dreamlikeart"
+                    ]
+                }
+            ]
+        }
+    ],
+    "21948": [
+        {
+            "id": 136384,
+            "files": [
+                {
+                    "id": 100091,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/157149/model/slingshotAlllayer.CBJu.safetensors",
+                    "sizeKB": 38205.3564453125,
+                    "name": "Slingshot_AllLayer.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-09T00:25:44.936Z",
+                    "hashes": {
+                        "AutoV1": "A2CFBB6B",
+                        "AutoV2": "F82E7BAF0E",
+                        "SHA256": "F82E7BAF0E255C9C1821E46146B8511757175BD2A241389BDA30636A190F4C4D",
+                        "CRC32": "3914CE82",
+                        "BLAKE3": "69D14F455DD1673BEA11252721AC0DE2B5E50E75D5EA8E3CEAEFDB1A95E1EACE"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/136384",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "swimsuit"
+                    ]
+                }
+            ]
+        }
+    ],
+    "130088": [
+        {
+            "id": 142668,
+            "files": [
+                {
+                    "id": 105006,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/14538/model/exhibitionismOff.h02O.safetensors",
+                    "sizeKB": 36975.4453125,
+                    "name": "exhibitionism-off.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-17T17:53:56.518Z",
+                    "hashes": {
+                        "AutoV1": "3220A5A6",
+                        "AutoV2": "2FB3584F42",
+                        "SHA256": "2FB3584F4240477331A4B61AE2406D61DA02AC20B1F94B8A4D370ADFE318BFB9",
+                        "CRC32": "DB20E1BE",
+                        "BLAKE3": "BE36B743D55CB1ABFA53DF7404B93A431595DC0B2796B4B66EA6ACBDF03DB5FD"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/142668",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "exhibitionism",
+                        "public indecency, flashing, naked coat"
+                    ]
+                }
+            ]
+        }
+    ],
+    "119033": [
+        {
+            "id": 134291,
+            "files": [
+                {
+                    "id": 97959,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/874841/model/auntjunev3.ODfv.safetensors",
+                    "sizeKB": 4739.5263671875,
+                    "name": "AuntJuneV3.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-05T15:30:39.668Z",
+                    "hashes": {
+                        "AutoV1": "2AD78C9F",
+                        "AutoV2": "B5A99E5E92",
+                        "SHA256": "B5A99E5E92107CEF20F2E4F333AF8813AA1E4F184DEFDB5AA7CCE7678173707B",
+                        "CRC32": "0FAAE1D7",
+                        "BLAKE3": "D494DD16A83846A01E7AC1121D9F61A215A2B498EAB730220CC257E7E2D5711A"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/134291",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "auntjunev3",
+                        "auntjune",
+                        "single hair bun, bangs, messy hair,brown hair,Purple Eyes,",
+                        "skirt, solo, brown hair, sleeveles, bag, shirt, floral print skirt, bare shoulders,red sweater, short hair, shirt tucked in",
+                        "brown shirt,floral print apron, mature female, blush,,full cloths,short sleeves",
+                        "gloves,black skirt,short sleeves, sweat, orange shirt,",
+                        "black skirt, blush, high-waist skirt, shirt, brown shirt, collarbone, skirt tug,underwear, pencil skirt, white high heels, miniskirt, long sleeves,front button skirt,",
+                        "necklace, jewelry earrings , pearl necklace,white coat BREAK,black shirt BREAK,white skirt, pencil skirt, sleeves rolled up",
+                        "dressblack dress, cleavage, medium hair, sandals, see-through dress, see-through panties,"
+                    ]
+                }
+            ]
+        }
+    ],
+    "5706": [
+        {
+            "id": 41233,
+            "files": [
+                {
+                    "id": 31826,
+                    "url": "https://civitai-delivery-worker-prod-2023-04-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/80598/model/anyhentai20.tIyu.safetensors",
+                    "sizeKB": 7522729.384765625,
+                    "name": "anyhentai_20.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": "fp16",
+                        "size": "full",
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-04-09T22:19:02.460Z",
+                    "hashes": {
+                        "AutoV1": "3ACB1E60",
+                        "AutoV2": "61BC7001E8",
+                        "SHA256": "61BC7001E86117C96A1DE88C338BB07DAA5BAFEF0CBE355EE40C6228A21EAD12",
+                        "CRC32": "7811D49C",
+                        "BLAKE3": "EF197A6239700CD704F7A89EAA63CA89371B29AB56EFB9B29EB48DEDF10BA16A"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/41233",
+                    "primary": true,
+                    "model_type": "Checkpoint",
+                    "trained_words": []
+                }
+            ]
+        }
+    ],
+    "123226": [
+        {
+            "id": 134305,
+            "files": [
+                {
+                    "id": 97972,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/3865/model/dolphinShortsV01.kwEW.safetensors",
+                    "sizeKB": 9348.5673828125,
+                    "name": "dolphin_shorts_v0.1.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-05T15:55:37.425Z",
+                    "hashes": {
+                        "AutoV1": "A01F175B",
+                        "AutoV2": "3F06AD41A4",
+                        "SHA256": "3F06AD41A499CEE8E4218CFC35EAC919A34B5A8E7C9741861F43B2AE28E4BD37",
+                        "CRC32": "B9D67AC7",
+                        "BLAKE3": "8E8BA5EC1302D76DC76ACE6F487FD06D6FB8F5BAC818DD0A043B8D04C0D9CE23"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/134305",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "dolphin shorts"
+                    ]
+                }
+            ]
+        }
+    ],
+    "123355": [
+        {
+            "id": 134478,
+            "files": [
+                {
+                    "id": 98108,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/3865/model/pantylinesV01.JMOT.safetensors",
+                    "sizeKB": 9371.2939453125,
+                    "name": "pantylines_v0.1.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-05T20:10:37.467Z",
+                    "hashes": {
+                        "AutoV1": "B461D339",
+                        "AutoV2": "3645349C1A",
+                        "SHA256": "3645349C1A1B4478D2A7F83E3A2F6FF6B0E138F09C5032D858CCEFF707FF5566",
+                        "CRC32": "CBC7D91D",
+                        "BLAKE3": "BF3802BE3C59A209172C0282B37A21875A6AE343FE0FB4117A40DAD97D2949A4"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/134478",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "pantylines"
+                    ]
+                }
+            ]
+        }
+    ],
+    "132978": [
+        {
+            "id": 146335,
+            "files": [
+                {
+                    "id": 108371,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/3865/model/tentaclesV04.5fB7.safetensors",
+                    "sizeKB": 36997.265625,
+                    "name": "tentacles_v0.4.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-22T20:55:32.508Z",
+                    "hashes": {
+                        "AutoV1": "F5D041D0",
+                        "AutoV2": "804E75564F",
+                        "SHA256": "804E75564F7B66241AB45C784866ACEDE9EA41CF0D4ADC2FBA40FD0F54A4AFB3",
+                        "CRC32": "9E497EFC",
+                        "BLAKE3": "F69E41999456930405D3110266EC1CEC214FDCA2F262595A7A3542755774B20E"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/146335",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "tentacles",
+                        "tentacle pit",
+                        "tentacle sex"
+                    ]
+                }
+            ]
+        }
+    ],
+    "125163": [
+        {
+            "id": 136709,
+            "files": [
+                {
+                    "id": 99938,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/64416/model/implied20fellatio.4rlL.safetensors",
+                    "sizeKB": 37030.8681640625,
+                    "name": "implied fellatio.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-08T17:10:44.884Z",
+                    "hashes": {
+                        "AutoV1": "5D2EF6FD",
+                        "AutoV2": "1CBB3A4AE2",
+                        "SHA256": "1CBB3A4AE226A7298730ECD228AAE4E7E0A4C4962335234B1BA807D776F4D28B",
+                        "CRC32": "73364189",
+                        "BLAKE3": "99A158C43EB19888A298047C0740154E73E5163967662D39E9DD2E0B44EA4882"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/136709",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "implied_fellatio,implied fellatio, solo focus, 1girl, hetero,1boy, back,from behind,huge ass"
+                    ]
+                }
+            ]
+        }
+    ],
+    "125995": [
+        {
+            "id": 137700,
+            "files": [
+                {
+                    "id": 100873,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/2139647/model/yogapantsv01.Jqth.safetensors",
+                    "sizeKB": 18548.8037109375,
+                    "name": "yogapantsv01.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-10T01:50:50.449Z",
+                    "hashes": {
+                        "AutoV1": "DE2F2560",
+                        "AutoV2": "3E3DA5AF1E",
+                        "SHA256": "3E3DA5AF1E4BD99615FE5AE49F43DF91328DF4AE5BA2B3F000E62F61F1B801A7",
+                        "CRC32": "DFD9C665",
+                        "BLAKE3": "F399B785C2C43B3C91746C7E9030335D8DC0C44947D01B9D024DCB8059424417"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/137700",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "yoga pants",
+                        "from behind, back"
+                    ]
+                }
+            ]
+        }
+    ],
+    "132974": [
+        {
+            "id": 146331,
+            "files": [
+                {
+                    "id": 108369,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/3865/model/grabbingOwnAssV03.01Fh.safetensors",
+                    "sizeKB": 9371.3203125,
+                    "name": "grabbing_own_ass_v0.3.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-22T20:45:44.294Z",
+                    "hashes": {
+                        "AutoV1": "1B82F408",
+                        "AutoV2": "2D7D9B783E",
+                        "SHA256": "2D7D9B783E2D15892BFE7B2AA9C0E60202DA065ACB18D2C8339CF972A76E170B",
+                        "CRC32": "BE5CE520",
+                        "BLAKE3": "2C6ADA5D7585F5819854958C2B18BA556429615D2336C2A011E3A3ED59F3DD4F"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/146331",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "grabbing own ass",
+                        "hand on own ass"
+                    ]
+                }
+            ]
+        }
+    ],
+    "130733": [
+        {
+            "id": 143495,
+            "files": [
+                {
+                    "id": 105738,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/564561/model/mmcosplay12.eHOY.safetensors",
+                    "sizeKB": 36985.5341796875,
+                    "name": "mmcosplay-12.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-19T00:30:36.004Z",
+                    "hashes": {
+                        "AutoV1": "29E36932",
+                        "AutoV2": "78267B37E0",
+                        "SHA256": "78267B37E09937E6BF2C024CF7C042E404D899BE1A43D0E8887CEF86302BB657",
+                        "CRC32": "B6A570E9",
+                        "BLAKE3": "13F4710F6532DD74B1E555C4A12DF1C30A9B82F06F9D08D68F19A944BEE90C88"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/143495",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "mmcosplay"
+                    ]
+                }
+            ]
+        }
+    ],
+    "126935": [
+        {
+            "id": 138852,
+            "files": [
+                {
+                    "id": 101828,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/76692/model/pose20glass000008.ktPh.safetensors",
+                    "sizeKB": 9335.7490234375,
+                    "name": "pose glass-000008.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-11T19:50:44.246Z",
+                    "hashes": {
+                        "AutoV1": "00A056E6",
+                        "AutoV2": "B68BED7035",
+                        "SHA256": "B68BED70353935D66EC6E8429642693CE6B263CF1C6A4F046454E3E4DE045390",
+                        "CRC32": "A3129B0E",
+                        "BLAKE3": "3F472853A4BC2737C3E2F8B947CDDC7E26C37FAE75FBAB1DD88657E6AC4C1BAC"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/138852",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "against glass",
+                        "sex from behind",
+                        "breasts on glass",
+                        "grabbing from behind"
+                    ]
+                }
+            ]
+        }
+    ],
+    "17105": [
+        {
+            "id": 20195,
+            "files": [
+                {
+                    "id": 16838,
+                    "url": "https://5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/civitai-prod-settled/91040/model/pussy.G5ba.safetensors",
+                    "sizeKB": 295024.1767578125,
+                    "name": "pussy.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": "fp16",
+                        "size": "full",
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-03-08T10:31:22.053Z",
+                    "hashes": {
+                        "AutoV1": "3C09EFD6",
+                        "AutoV2": "FEB7736A9C",
+                        "SHA256": "FEB7736A9CE7B0356822C3829AC408C75E9F60CEEE7636265502D27C12F878C2",
+                        "CRC32": "079C4B19",
+                        "BLAKE3": "4C9E080F8E1D85CC3EEB2407E9347CFD66F5C80BAB9C6E664729623D2840217A"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/20195",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "pussy"
+                    ]
+                }
+            ]
+        }
+    ],
+    "122905": [
+        {
+            "id": 133921,
+            "files": [
+                {
+                    "id": 97658,
+                    "url": "https://civitai-delivery-worker-prod-2023-08-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/1201448/model/arisa08.jJ4b.safetensors",
+                    "sizeKB": 18550.0625,
+                    "name": "Arisa-08.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-08-11T15:49:06.948Z",
+                    "hashes": {
+                        "AutoV1": "DE2F2560",
+                        "AutoV2": "F1A45DD5BA",
+                        "SHA256": "F1A45DD5BAEDC4C91DF0700FF35DD522E608AE09E5511A02B908CF3D9B187562",
+                        "CRC32": "194E57B7",
+                        "BLAKE3": "DE9FE7FA91DA67AA170F5140E54E6EE8050984C30F03DA575E6E5B9065068DE9"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/133921",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "arisa"
+                    ]
+                }
+            ]
+        }
+    ],
+    "24269": [
+        {
+            "id": 29016,
+            "files": [
+                {
+                    "id": 23984,
+                    "url": "https://5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/civitai-prod-settled/10394/model/cum20on20any20v3.CPVg.safetensors",
+                    "sizeKB": 76200.8828125,
+                    "name": "cum on any v3.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": "fp16",
+                        "size": "full",
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-03-25T16:46:30.885Z",
+                    "hashes": {
+                        "AutoV1": "4CE4A145",
+                        "AutoV2": "0D5AE4BAD0",
+                        "SHA256": "0D5AE4BAD0BD23EADAE0AFA619FDBC69E7437785067146D634C47D43253E7663",
+                        "CRC32": "C1914953",
+                        "BLAKE3": "D930407AF7ADA53CF4B8B46EA40FEE543E16E6CA093D751053F6469FABA4D8C9"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/29016",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "cum on"
+                    ]
+                }
+            ]
+        }
+    ],
+    "42720": [
+        {
+            "id": 47398,
+            "files": [
+                {
+                    "id": 35218,
+                    "url": "https://civitai-delivery-worker-prod-2023-04-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/13891/model/mona1000008.X1SW.safetensors",
+                    "sizeKB": 73937.3662109375,
+                    "name": "mona1-000008.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-04-16T19:50:53.214Z",
+                    "hashes": {
+                        "AutoV1": "E5C22E48",
+                        "AutoV2": "FCA7E91BA3",
+                        "SHA256": "FCA7E91BA320B82C467F99BC41279AD4E697E731BA1FF24E0E520DC971E0348C",
+                        "CRC32": "9A35005A",
+                        "BLAKE3": "A3385120D7C8EA055BE40E3CC68D4EFB37476C0938365D1ECCC9655080B26F20"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/47398",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "monadef",
+                        "monarnd",
+                        "monastarpact"
+                    ]
+                }
+            ]
+        }
+    ],
+    "23127": [
+        {
+            "id": 27626,
+            "files": [
+                {
+                    "id": 22861,
+                    "url": "https://5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/civitai-prod-settled/3865/model/rindouV42.nh0E.safetensors",
+                    "sizeKB": 9334.0263671875,
+                    "name": "rindou_v4.2.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": "fp16",
+                        "size": "full",
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-03-23T04:05:36.479Z",
+                    "hashes": {
+                        "AutoV1": "A4978E6F",
+                        "AutoV2": "27FA90277C",
+                        "SHA256": "27FA90277CC0E007DE331D57B7414F0B7A4A42A87E2D166E518521C7FD8796E4",
+                        "CRC32": "7538FAA7",
+                        "BLAKE3": "C7E28D002DFBB18A4FAF95AC0DDE72D4AD3F14FDB224E19D5EB94273DF468486"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/27626",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "rindou"
+                    ]
+                }
+            ]
+        }
+    ],
+    "86613": [
+        {
+            "id": 92121,
+            "files": [
+                {
+                    "id": 63515,
+                    "url": "https://civitai-delivery-worker-prod-2023-06-01.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/165514/model/tentaclePit000008.Xjrg.safetensors",
+                    "sizeKB": 9333.94140625,
+                    "name": "tentacle-pit-000008.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": null,
+                        "size": null,
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-06-09T02:35:59.400Z",
+                    "hashes": {
+                        "AutoV1": "88A80A6F",
+                        "AutoV2": "8F8EED1C8B",
+                        "SHA256": "8F8EED1C8BD6F34AB62768B27CB92272CF6EF09FD629BD01D75D0B94E9AF54C7",
+                        "CRC32": "22281165",
+                        "BLAKE3": "C3EFD91E5CB4345ED993302566B70B8283C55152957949AAD2A86295B22A1DFC"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/92121",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "tentacle-pit",
+                        "restrained",
+                        "tentacle sex"
+                    ]
+                }
+            ]
+        }
+    ],
+    "17407": [
+        {
+            "id": 20578,
+            "files": [
+                {
+                    "id": 17171,
+                    "url": "https://5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/civitai-prod-settled/91040/model/horosukeE28098s.fm8N.safetensors",
+                    "sizeKB": 36975.1357421875,
+                    "name": "Horosuke‘s tentacle.safetensors",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": "fp16",
+                        "size": "full",
+                        "format": "SafeTensor"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-03-09T07:15:57.245Z",
+                    "hashes": {
+                        "AutoV1": "E540E64D",
+                        "AutoV2": "C439193363",
+                        "SHA256": "C439193363D4A95AE8F967A66D7C3407412DFC4B6158B73167EBAF6136546515",
+                        "CRC32": "1206D373",
+                        "BLAKE3": "16DE864995BFE448D11F38C6563B57C96377938AF467951034A2E22BE7140153"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/20578",
+                    "primary": true,
+                    "model_type": "LORA",
+                    "trained_words": [
+                        "tentacle"
+                    ]
+                }
+            ]
+        }
+    ],
+    "26367": [
+        {
+            "id": 31572,
+            "files": [
+                {
+                    "id": 26077,
+                    "url": "https://civitai-delivery-worker-prod-2023-03-27.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/7727/model/fennMei.UWsG.bin",
+                    "sizeKB": 3.75,
+                    "name": "fenn_mei.bin",
+                    "type": "Model",
+                    "metadata": {
+                        "fp": "fp16",
+                        "size": "full",
+                        "format": "Other"
+                    },
+                    "pickleScanResult": "Success",
+                    "pickleScanMessage": "No Pickle imports",
+                    "virusScanResult": "Success",
+                    "virusScanMessage": null,
+                    "scannedAt": "2023-03-30T03:20:24.116Z",
+                    "hashes": {
+                        "AutoV2": "4F155CD565",
+                        "SHA256": "4F155CD565D75304E68C657A73F2A94A7A07D455CC935C331118B96724BB3F0D",
+                        "CRC32": "F201A6B5",
+                        "BLAKE3": "47B1D07CE067768BEAB2A172C5712A76DE3E55072BB66009E114F3A218F84E12"
+                    },
+                    "downloadUrl": "https://civitai.com/api/download/models/31572",
+                    "primary": true,
+                    "model_type": "TextualInversion",
+                    "trained_words": [
+                        "fenn_mei"
+                    ]
+                }
+            ]
+        }
+    ]
+}
